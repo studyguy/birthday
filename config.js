@@ -6,8 +6,8 @@ var config = {
         "My dear",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Today's your birthday",  // 同上...
         "And it's been 60 days of us together",
-        "From the 霸王茶姬 we first met",
-        "To the 商朝消火栓 we've become lately,",
+        "From the 「霸王茶姬」 we first met",
+        "To the 「商朝消火栓」 we've become lately,",
         "We've had endless joy and mishaps",
         "I hope you stay happy always",
         "And I hope to be with you forever",
@@ -16,8 +16,8 @@ var config = {
     ],
 
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        // "心爱的小可爱": "./imgs/xiaokeai.png",
+        "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
